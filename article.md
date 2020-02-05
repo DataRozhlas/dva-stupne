@@ -15,7 +15,7 @@ Každý stupeň, o který se ohřeje planeta, podle nich znamená v průměru o 
 
 Dvoustupňové oteplení ukazují data Českého hydrometeorologického ústavu, který zveřejňuje teplotní průměry od roku 1961. [Loňská data](http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty), která ČHMÚ zveřejnil na konci ledna, z trendu nijak nevybočují.
 
-<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr.svg" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr.svg" class="svg-graf"></a></wide>
+<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr_1200.png" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr.svg" class="svg-graf"></a></wide>
 
 <small>Licence: CC BY 4.0. Data: [ČHMÚ](http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty). Původní graf: [Fakta o klimatu](https://faktaoklimatu.cz/infografiky/teplota-cr)</small>
 
@@ -27,7 +27,7 @@ Nárůst teploty se ovšem měsíc od měsíce liší. Nejvýraznější je v zi
 
 Letošní leden pak byl podle meteorologů nejteplejší od roku 1981 jak v Evropě, tak globálně. Průměrná lednová teplota v Evropě [byla o 3,1 stupně vyšší](https://www.ceskenoviny.cz/zpravy/letosni-leden-byl-podle-meteorologu-nejteplejsi-od-roku-1981/1850755) než průměr z let 1981 až 2010, upozornili odborníci z evropské služby Copernicus, která monitoruje klimatické změny.
 
-<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/trend-teplot-cr.svg" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/trend-teplot-cr.svg" class="svg-graf"></a></wide>
+<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/trend-teplot-cr_1200.png" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/trend-teplot-cr.svg" class="svg-graf"></a></wide>
 
 <small>Licence: CC BY 4.0. Data: [ČHMÚ](http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty). Původní graf: [Fakta o klimatu](https://faktaoklimatu.cz/infografiky/trend-teplot-cr)</small>
 
@@ -41,7 +41,7 @@ Trend bude podle vědců pokračovat i v letech 2021 až 2040. Ukazují to klima
 
 „Je to velké riziko pro rozvoj sucha na jaře a v létě,“ popisuje důsledky Zahradníček. „Sníh je velice důležitý pro doplnění podzemních vod, na to čekáme už několik zim po sobě a nic se neděje. Nyní jsme na většině území Čech na silně podnormálních stavech, na Moravě je situace o něco lepší – tam jsou i místa, kde je stav normální. Ale v Pardubickém, Libereckém nebo Královéhradeckém kraji je situace až extrémně mimořádná, zásoba podzemních vod je velice nízká a nevypadá to, že by to letošní sníh změnil.“
 
-<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr-mesice.svg" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr-mesice.svg" class="svg-graf"></a></wide>
+<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr-mesice_1200.png" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/teplota-cr-mesice.svg" class="svg-graf"></a></wide>
 
 <small>Licence: CC BY 4.0. Data: [ČHMÚ](http://portal.chmi.cz/historicka-data/pocasi/uzemni-teploty). Původní graf: [Fakta o klimatu](https://faktaoklimatu.cz/infografiky/teplota-cr-mesice)</small>
 
@@ -59,7 +59,7 @@ Dá se říct, kde je situace nejhorší?, ptá se moderátorka pořadu Vinohrad
 
 Globálně je dnes planeta oproti průměru let 1951 až 1980 teplejší přibližně o jeden stupeň Celsia. Dvě třetiny oteplení nastaly po roce 1975, tempo oteplování se pohybuje mezi 0,15 a 0,20 stupni za dekádu.
 
-<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/vyvoj-teplotni-anomalie.svg" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/vyvoj-teplotni-anomalie.svg" class="svg-graf"></a></wide>
+<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/vyvoj-teplotni-anomalie_1200.png" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/vyvoj-teplotni-anomalie.svg" class="svg-graf"></a></wide>
 
 <small>Licence: CC BY 4.0. Data: [NASA](https://data.giss.nasa.gov/gistemp/). Původní graf: [Fakta o klimatu](https://faktaoklimatu.cz/infografiky/vyvoj-teplotni-anomalie)</small>
 
@@ -71,11 +71,11 @@ Rizika ohřátí planety o dalšího půl stupně popisuje další trojice infog
 
 <p id="vysvetlivka">Na mobilním zařízení si je můžete zvětšit pomocí dvou prstů podobně jako fotografie, případně ťuknutím otevřít ve větším přiblížení v novém okně.</p>
 
-<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-1.svg" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-1.svg" class="svg-graf"></a></wide>
+<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-1_1200.png" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-1.svg" class="svg-graf"></a></wide>
 
-<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-2.svg" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-2.svg" class="svg-graf"></a></wide>
+<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-2_1200.png" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-2.svg" class="svg-graf"></a></wide>
 
-<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-3.svg" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-3.svg" class="svg-graf"></a></wide>
+<wide><a href="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-3_1200.png" target="_blank"><img src="https://data.irozhlas.cz/dva-stupne/charts/body-zlomu-3.svg" class="svg-graf"></a></wide>
 
 <small>Licence: CC BY 4.0. Data: [NASA](https://data.giss.nasa.gov/gistemp/). Původní graf: [Fakta o klimatu](https://faktaoklimatu.cz/infografiky/vyvoj-teplotni-anomalie)</small>
 
@@ -85,5 +85,4 @@ Vývoj v Česku komentuje klimatolog Pavel Zahradníček z Ústavu výzkumu glob
 
 „Pesimistický model mluví o výrazném oteplení klimatu, ke konci století by se zimy oproti současnosti mohly oteplit o dalších pět stupňů,“ upozorňuje expert. „Scénář, který počítá s tím, že začneme něco dělat, mluví ‚jen‘ o 2,7 stupních. Kdybychom dodrželi pařížský scénář, udržovali bychom ke konci století klima na současné úrovni, která je ale výš než normál z osmdesátých let, na který jsme byli zvyklí. I tohle klima, které pozorujeme, už je změněné.“
 
-Globální souvislosti mezi změnou klimatu, táním ledovců, rostoucí hladiny oceánů, růstu teplot a skleníkovými plyny popisují [interaktivní vizualizace NASA](https://climate.nasa.gov/interactives/climate-time-machine
-).
+Globální souvislosti mezi změnou klimatu, táním ledovců, rostoucí hladiny oceánů, růstu teplot a skleníkovými plyny popisují [interaktivní vizualizace NASA](https://climate.nasa.gov/interactives/climate-time-machine).
