@@ -1,5 +1,9 @@
 ﻿import "./byeie"; // loučíme se s IE
 
+if (window.innerWidth > 1000) {
+  document.querySelector('#vysvetlivka').remove();
+}
+
 /*
 // snadné načtení souboru pro každého!
 fetch("https://blabla.cz/blabla.json")
